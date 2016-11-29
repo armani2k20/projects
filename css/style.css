@@ -1,0 +1,39 @@
+body{
+    background: #000;
+    color: #fff;
+}
+
+h1{
+    text-align: center;
+}
+
+#box{
+    margin: 0 auto;
+    padding: 2%;
+    width: 40%;
+    height: 50%;
+    background-color: black;
+    border: solid 5px #fff; 
+}
+
+#box h2{
+    text-align: center;
+}
+
+#box table{
+    text-align: center;
+    margin: 0 auto;
+}
+#message{
+    text-align: center;
+}
+
+#box-footer{
+    margin: 0 auto;
+}
+
+img{
+    width: 20%;
+    margin: 6%;
+    cursor: pointer;
+}
